@@ -19,6 +19,32 @@
 - 👔 Менеджеры и руководители — для контроля загруженности
 - 🔧 Администраторы офиса — для оптимизации использования комнат
 
+booking_system/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── auth.py
+│   ├── crud.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── rooms.py
+│   │   ├── bookings.py
+│   │   └── analytics.py
+│   └── tests/
+│       ├── __init__.py
+│       ├── test_auth.py
+│       ├── test_rooms.py
+│       ├── test_bookings.py
+│       └── test_analytics.py
+├── requirements.txt
+├── README.md
+├── pylint.txt
+└── run.py
+
 ## Основной функционал
 
 ### 1. Управление пользователями
