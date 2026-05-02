@@ -89,6 +89,8 @@ source venv/bin/activate
 
 # 4. Установка зависимостей
 pip install -r requirements.txt
+pip install sqlalchemy aiosqlite -i https://mirrors.cloud.tencent.com/pypi/simple
+pip install pydantic[email]
 
 # 5. Запуск приложения
 python run.py
