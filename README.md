@@ -4,7 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-green.svg)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## О проекте (Tyrin Sergey)
+## О проекте (Тырин Сергей)
 
 **Система бронирования переговорных комнат с учётом конфликтов** — это RESTful веб-сервис для автоматизации бронирования переговорных комнат в офисах компаний.
 
